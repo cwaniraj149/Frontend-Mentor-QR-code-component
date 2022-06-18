@@ -17,8 +17,11 @@ img {
   width: 350px;
 }
 
-h1 {
+h2 {
+  color: hsl(218, 44%, 22%);
   font-weight: 700;
+  margin: auto;
+  padding: 20px 0 20px 0;
   text-align: center;
 }
 
