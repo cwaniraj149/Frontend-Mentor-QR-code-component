@@ -36,21 +36,18 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    padding: 10px 50px;
 }
 
 #heading {
         color: hsl(218, 44%, 22%);
-        font-weight: 800;
-        width: 75%;
-        text-align: center; 
-        margin: 15px;
+        font-weight: 700;
+        text-align: center;
 }
       
 #paragraph {
         color: hsl(220, 15%, 55%);
-        width: 65%;
         text-align: center;
-        margin-bottom: 10px;
       }
 
 .attribution { 
