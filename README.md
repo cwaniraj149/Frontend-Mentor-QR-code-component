@@ -1,10 +1,7 @@
 # Frontend Mentor - QR code component Solution
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
-## Welcome! 👋 
-
-My task was to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design. 
-
+## Welcome! 👋 . 
 
 ## Table of contents
 
