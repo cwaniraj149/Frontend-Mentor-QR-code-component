@@ -9,7 +9,7 @@ Here is my destop preview of this project -
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.png)
 
 Here is my mobile preview of this project - 
-![Design preview for the QR code component coding challenge](./design/mobile-preview.jpg)
+![Design preview for the QR code component coding challenge](./design/mobile-preview.PNG)
 
 
 
