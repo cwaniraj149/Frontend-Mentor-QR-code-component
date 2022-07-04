@@ -5,19 +5,11 @@
 
 My task was to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design. 
 
-Here is my destop preview of this project - 
-![Design preview for the QR code component coding challenge](./design/desktop-preview.png)
-
-Here is my mobile preview of this project - 
-![Design preview for the QR code component coding challenge](./design/mobile-preview.PNG)
-
-
 
 ## Table of contents
 
 - [Overview]
   - [Screenshot]
-  - [Links]
 - [My process]
   - [Built with]
   - [What I learned]
@@ -30,13 +22,10 @@ This project is a good start to using and enhancing one's HTML and CSS skills. T
 
 ### Screenshot
 Here is my destop preview of this project - 
+![Design preview for the QR code component coding challenge](./design/desktop-preview.png)
 
 Here is my mobile preview of this project - 
-
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+![Design preview for the QR code component coding challenge](./design/mobile-preview.PNG)
 
 ## My process
 
