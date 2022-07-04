@@ -23,12 +23,8 @@ body {
         border-radius: 15px;   
         height: 550px;
         width: 380px;  
-        margin: 10px;   
+        margin: 5px;   
       }
-
-.qr-code {
-    height: 65%;
-}
 
 .qr-code-image {
     height: 350px;
