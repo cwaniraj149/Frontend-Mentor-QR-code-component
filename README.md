@@ -1,12 +1,15 @@
 # Frontend Mentor - QR code component Solution
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
-## Welcome! 👋 . 
+## Welcome! 👋 
+
+My task was to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design. 
 
 ## Table of contents
 
 - [Overview]
   - [Screenshot]
+  - [Links]
 - [My process]
   - [Built with]
   - [What I learned]
@@ -19,12 +22,20 @@ This project is a good start to using and enhancing one's HTML and CSS skills. T
 
 ### Screenshot
 Here is my destop preview of this project - 
-![Design preview for the QR code component coding challenge](./design/desktop-preview.png)
+![Design preview for the QR code component coding challenge](./mydesign/desktop-preview.png)
 
 Here is my mobile preview of this project - 
-![Design preview for the QR code component coding challenge](./design/mobile-preview.PNG)
+![Design preview for the QR code component coding challenge](./mydesign/mobile-preview.jpg)
+
+
+### Links
+
+- Solution URL: [https://github.com/cwaniraj149/Frontend-Mentor-QR-code-component]
+- Live Site URL: [https://cwaniraj149.github.io/Frontend-Mentor-QR-code-component/]
 
 ## My process
+
+Using HTML and CSS I designed this project. This project was quite simple and easy. As the actual dimensions of image, font-family and other few details were not provided so I assumed it by myself.  
 
 ### Built with
 
