@@ -21,28 +21,34 @@ body {
         justify-content: center;
         align-items: center; 
         border-radius: 15px;   
-        height: 550px;
-        width: 380px;  
+        height: 570px;
+        width: 370px;  
       }
+.qr-code{
+    height: 60%;
+
+}
 
 .qr-code-image {
-    height: 350px;
+    height: 340px;
     border-radius: 15px;
 }
 
-.content {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    padding: 10px 50px;
-    gap: 20px;
+.heading-container {
+ margin: 20px 20px 0 20px ;
 }
 
 #heading {
-        color: hsl(218, 44%, 22%);
-        font-weight: 700;
-        text-align: center;
+    color: hsl(218, 44%, 22%);
+    font-weight: 700;
+    font-size: 26px;
+    text-align: center; 
+}
+
+.content {
+    margin: 10px 0 10px 0;
+    padding: 10px 40px;
+    gap: 20px;
 }
       
 #paragraph {
