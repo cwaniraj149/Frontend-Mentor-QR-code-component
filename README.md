@@ -90,4 +90,4 @@ Thanks to Jad Khalili and freeCodeCamp.org for providing such an amazing lecture
 
 I love receiving feedback! I'm always looking to improve my project and enhance my knowledge. So if you have anything you'd like to mention, please comment.
 
-**Have fun building!** 🚀
+**Had fun building!** 🚀
