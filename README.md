@@ -36,7 +36,7 @@ Here is my destop preview of this project -
 Here is my mobile preview of this project - 
 ![Design preview for the QR code component coding challenge](./mydesign/mobile-preview.jpg)
 
-You can find both these previews inside the `/mydesign` folder
+You can find both these previews inside the `/mydesign` folder.
 
 ### Links
 
