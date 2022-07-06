@@ -1,9 +1,12 @@
-# Frontend Mentor - QR code component Solution
-[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
+# Frontend Mentor - Product preview card component solution
+[Frontend Mentor] (https://www.frontendmentor.io)challenges help you improve your coding skills by building realistic projects. Frontend Mentor challenge to build out this product preview card component and get it looking as close to the design as possible.
+
+## Welcome! 👋
+My work was to build out this product preview card component and get it looking as close to the design as possible. 
 
 ## Welcome! 👋 
 
-My task was to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design. 
+My task was to build out this project to the designs inside the `/design` folder and get it looking as close to the design as possible.  
 
 ## Table of contents
 
@@ -20,12 +23,20 @@ My task was to build out the project to the designs inside the `/design` folder.
 ## Overview
 This project is a good start to using and enhancing one's HTML and CSS skills. The overall experience of doing this project is quite good.
 
+### The challenge
+
+Users should be able to:
+
+- View the optimal layout depending on their device's screen size
+- See hover and focus states for interactive elements
+
+
 ### Screenshot
 Here is my destop preview of this project - 
 ![Design preview for the QR code component coding challenge](./mydesign/desktop-preview.png)
 
 Here is my mobile preview of this project - 
-![Design preview for the QR code component coding challenge](./mydesign/mobile-preview.PNG)
+![Design preview for the QR code component coding challenge](./mydesign/mobile-preview.jpg)
 
 You can find both these previews inside the `/mydesign` folder
 
@@ -36,7 +47,7 @@ You can find both these previews inside the `/mydesign` folder
 
 ## My process
 
-Using HTML and CSS I designed this project. This project was quite simple and easy. As the actual dimensions of image, font-family and other few details were not provided so I assumed it by myself.  
+Using HTML and CSS I designed this project. This project was quite simple and easy. As the actual dimensions of image and other few minor details were not provided so I assumed it by myself.  
 
 ### Built with
 
@@ -49,9 +60,7 @@ Using HTML and CSS I designed this project. This project was quite simple and ea
 
 Basically, through this project, I learned about Flexbox.
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
+
 ```css
 .proud-of-this-css {
   display:flex;
@@ -59,7 +68,6 @@ Basically, through this project, I learned about Flexbox.
    justify-content: center;  /* Values: flex-start, flex-end, space-around and space-between. */
   align-items: center; /* Values: flex-start, flex-end, stretch and baseline */
 }
-```
 ```
 
 ### Useful resources
@@ -75,10 +83,10 @@ Basically, through this project, I learned about Flexbox.
 - Frontend Mentor - [@cwaniraj149](https://www.frontendmentor.io/profile/cwaniraj149)
 
 
-
 ## Acknowledgments
 
 Thanks to Jad Khalili and freeCodeCamp.org for providing such an amazing lecture on CSS. I learned many things from him, which I used while doing this project.
+
 
 ## Got feedback for me?
 
