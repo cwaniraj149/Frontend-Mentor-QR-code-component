@@ -49,9 +49,9 @@ Using HTML and CSS I designed this project. This project was quite simple and ea
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
+- HTML
+- CSS 
+- Resposnive
 
 
 ### What I learned
